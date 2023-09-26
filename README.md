@@ -1,14 +1,20 @@
-         ___        ______     ____ _                 _  ___  
-        / \ \      / / ___|   / ___| | ___  _   _  __| |/ _ \ 
-       / _ \ \ /\ / /\___ \  | |   | |/ _ \| | | |/ _` | (_) |
-      / ___ \ V  V /  ___) | | |___| | (_) | |_| | (_| |\__, |
-     /_/   \_\_/\_/  |____/   \____|_|\___/ \__,_|\__,_|  /_/ 
- ----------------------------------------------------------------- 
+## About the project
+
+Simple website to make use of the OMDb API in order to retrieve the information related to movies. It has been developed using AWS services (S3, API Gateway, Lambda, DynamoDB, and IAM), as well as Boto3 (AWS SDK for Python).
+
+## Demo
+[Demo](https://ja-2023-03-30-s3site.s3.eu-west-3.amazonaws.com/index.html)
+
+### Built With
+
+![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
 
 
-Hi there! Welcome to AWS Cloud9!
+## Author
 
-To get started, create some files, play with the terminal,
-or visit https://docs.aws.amazon.com/console/cloud9/ for our documentation.
+* **Juan Antonio Martínez López** - [Website](https://juananmtez.github.io/) - [LinkedIn](https://www.linkedin.com/in/juanantonio-martinez/)
 
-Happy coding!
+## License
+
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details
+
